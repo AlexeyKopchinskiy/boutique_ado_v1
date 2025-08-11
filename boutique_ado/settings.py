@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.sites",  # Required by allauth
-    # `allauth` apps
     "allauth",
     "allauth.account",
     # Optional -- requires install using `django-allauth[socialaccount]`.
